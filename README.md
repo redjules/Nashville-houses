@@ -6,17 +6,18 @@ In this project we download a dataset with Nashville Housing Data for Data Clean
 
 ### Getting the Dataset
 
-https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx 
+Download the dataset [here]([https://link-url-here.org](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
 
-We download the Nashville Housing Data for Data Cleaning Excel.
+
+We download the 'Nashville Housing Data for Data Cleaning' Excel.
 
 
 ### Importing the dataset into an SQL database
 
-
 We go to Microsoft SQL Server Management Studio and import the Excel
 
-### Performing data exploration
+
+### Performing Data Cleaning
 
 - Standardize Date Format
 - Populate Property Address data

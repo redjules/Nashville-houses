@@ -6,7 +6,7 @@ In this project we download a dataset with Nashville Housing Data for Data Clean
 
 ### Getting the Dataset
 
-Download the dataset [here](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx).
+Download the dataset [here](https://github.com/AlexTheAnalyst/PortfolioProjects/raw/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx).
 
 
 We download the 'Nashville Housing Data for Data Cleaning' Excel.
